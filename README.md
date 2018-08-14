@@ -2,9 +2,7 @@
 
 一直想做一款后台管理系统，看了很多优秀的开源项目但是发现没有合适的。于是利用空闲休息时间开始自己写了一套后台系统。如此有了诺寒。她可以用于所有的Web应用程序，如网站管理后台，网站会员中心，CMS，CRM，OA。所有前端后台代码封装过后十分精简易上手，出错概率低。同时支持移动客户端访问。系统会陆续更新一些实用功能。
 
-性别男，诺寒是女儿的名字。
-
-诺寒基于hplus和inspinia两套后台系统模板开发。有需要可自行到群内下载。
+诺寒基于hplus和inspinia两套后台系统模板开发。
 
 http://www.zi-han.net/theme/hplus
 
@@ -28,10 +26,6 @@ http://webapplayers.com/inspinia_admin-v2.7.1
 14. 系统接口：根据业务代码自动生成相关的api接口文档。
 15. 在线构建器：拖动表单元素生成相应的HTML代码。
 16. 连接池监视：监视当期系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
-## 在线体验
-> admin/admin123
-
-地址：http://www.nuohan.club
 
 ## 演示图
 
@@ -61,8 +55,3 @@ http://webapplayers.com/inspinia_admin-v2.7.1
         <td><img src="https://static.oschina.net/uploads/space/2018/0728/115212_QybT_1438828.png"/></td>
     </tr>
 </table>
-
-
-## 诺寒交流群
-
-QQ群： [![加入QQ群](https://img.shields.io/badge/QQ群-1389287-blue.svg)](http://shang.qq.com/wpa/qunwpa?idkey=4a9a52f5d9d9c65a8ea67859170ba835d95fc50ec74a2a722293e60e036b5016) 或 [![加入QQ群](https://img.shields.io/badge/QQ群-1389287-blue.svg)](https://jq.qq.com/?_wv=1027&k=5HBAaYN)，推荐点击按钮入群，当然如果无法成功操作，请自行搜索群号`1389287`进行添加
