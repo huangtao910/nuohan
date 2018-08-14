@@ -27,31 +27,3 @@ http://webapplayers.com/inspinia_admin-v2.7.1
 15. 在线构建器：拖动表单元素生成相应的HTML代码。
 16. 连接池监视：监视当期系统数据库连接池状态，可进行分析SQL找出系统性能瓶颈。
 
-## 演示图
-
-<table>
-    <tr>
-        <td><img src="https://oscimg.oschina.net/oscnet/25b5e333768d013d45a990c152dbe4d9d6e.jpg"/></td>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/114553_jBTY_1438828.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/114830_eIHp_1438828.png"/></td>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/114854_Y5a2_1438828.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/114920_P8qv_1438828.png"/></td>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/114946_O3jx_1438828.png"/></td>
-    </tr>
-    <tr>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/115022_1Tnm_1438828.png"/></td>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/115051_XvMW_1438828.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/115117_9TZ3_1438828.png"/></td>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/115130_a5xO_1438828.png"/></td>
-    </tr>
-	<tr>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/115151_EuYC_1438828.png"/></td>
-        <td><img src="https://static.oschina.net/uploads/space/2018/0728/115212_QybT_1438828.png"/></td>
-    </tr>
-</table>
