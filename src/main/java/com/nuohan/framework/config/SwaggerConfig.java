@@ -55,4 +55,5 @@ public class SwaggerConfig
                 .version("版本号:" + nuohanConfig.getVersion())
                 .build();
     }
+
 }
